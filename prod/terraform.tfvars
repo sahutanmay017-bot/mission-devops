@@ -11,7 +11,7 @@ gitops_repo_url  = "https://github.com/itsBaivab/gitops-configs.git" # GitOps re
 argocd_namespace = "argocd"                                          # Namespace where ArgoCD will be deployed
 
 # Application Deployment Configuration 
-app_repo_url  = "https://github.com/itsBaivab/gitops-configs.git" # Repository containing your application manifests
+app_repo_url  = "https://github.com/sahutanmay017-bot/mission-devops.git" # Repository containing your application manifests
 app_repo_path = "3tire-configs"                                   # Path within app repository containing Kubernetes manifests
 
 tags = {
